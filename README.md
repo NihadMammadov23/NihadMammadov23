@@ -1,7 +1,6 @@
 # 💫 About Me:
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 🎓 Koc University Computer Engineering 🎓 🖥 Full-Stack Web developer 🖥 ⚙ Networking Specialist ⚙">
-</p>
+🎓 Koc University '27 Bachelor of Computer Engineering<br>🖥 Full-Stack Web developer<br>⚙ Networking Specialist
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nihad.bat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihad-mammadov-a637b4216) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nihad_bat) 
