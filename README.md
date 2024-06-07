@@ -1,5 +1,5 @@
 # 💫 About Me :
-🎓 Koc University '27 Bachelor of Computer Engineering<br>🖥 Software developer<br>⚙ Network Administration<br>💪 Can select all traffic light and cars
+🎓 Koc University '27 Bachelor of Computer Engineering<br>🖥 Software developer<br>⚙ Network Administrator<br>💪 Can select all traffic light and cars
 
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nihad.bat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihad-mammadov-a637b4216) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_nihadmammadov) 
